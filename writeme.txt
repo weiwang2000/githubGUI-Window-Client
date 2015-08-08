@@ -1,0 +1,45 @@
+1. Git and GitHub Version Control Tutorial - Part 1 Short intro into Git and moving into installation and demonstration.
+1.What is Git
+2.Installation of Git Client
+3.Demonstration of how to use Git
+4.Introduction into GitHub
+
+2. Git and GitHub Version Control Tutorial - Part 2 Configure Git Bash to work with GitHub, overview of GitHub and Demo of the Git Windows Client 
+1.Recap Part 1
+2.GitHub
+3.Using Git Bash with GitHub
+4.Git Windows Client
+5.Overview of Branching, Merging, Cloning, Forking
+
+3. Git and GitHub Version Control Tutorial - Part 3 Time to get into the meat of Git... how do you use to Git to manage a project with multiple developers. 
+1.Overview of Branching, Cloning, Pulling, and Merging
+2.Demo of it on Git Bash
+3.Same demo on Windows Git
+4.Intro into Forking
+5.Demo of Forking and a Pull Request
+6.Overview of Part 4
+
+4. Git and GitHub Version Control Tutorial - Part 4 Time to cover some advance topics
+1.Merge Conflicts
+2.Git Tagging
+3.Previous commit
+4.Final thoughts
+5.Congrats, you are done!
+
+What a great learning experience!
+
+Thank you.
+
+shortcuts
+
+
+$ git init [make the fold into get repository]
+$ git add .
+$ git status
+$ git commit -m "message"
+$ git log
+
+$ git remote add origin[add remote repository]  [add gethub remote repository path] /git@github.com:weiwang2000/Practice.git
+$ git push origin master
+
+Practice in GitHub GUI!
